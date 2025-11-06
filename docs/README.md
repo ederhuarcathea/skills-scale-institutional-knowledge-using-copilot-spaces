@@ -12,6 +12,11 @@ The OctoAcme approach helps cross-functional teams deliver value efficiently thr
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
 - **QA/Testing**: Validate quality and acceptance criteria
+- **UX Designer**: Create user-centered designs and conduct usability research
+- **Scrum Master**: Facilitate agile ceremonies and remove team impediments
+- **Site Reliability Engineer (SRE)**: Ensure system reliability, monitoring, and incident response
+- **Technical Writer**: Create and maintain product documentation and release notes
+- **Business Analyst**: Translate business requirements into actionable user stories
 - **Stakeholders**: Provide inputs, approvals, and feedback
 
 ## Lifecycle
