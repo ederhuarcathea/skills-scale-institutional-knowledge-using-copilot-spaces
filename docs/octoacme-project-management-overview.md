@@ -18,6 +18,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: create user-centered designs and conduct usability research.
+- Scrum Master: facilitate agile ceremonies and remove team impediments.
+- Site Reliability Engineer (SRE): ensure system reliability, monitoring, and incident response.
+- Technical Writer: create and maintain product documentation and release notes.
+- Business Analyst: translate business requirements into actionable user stories.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
